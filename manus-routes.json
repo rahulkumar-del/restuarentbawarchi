@@ -1,0 +1,21 @@
+{
+  "routes": [
+    { "path": "/", "title": "Friends Bawarchi Biryani" },
+    { "path": "/menu", "title": "Menu · Friends Bawarchi Biryani" },
+    { "path": "/about", "title": "About · Friends Bawarchi Biryani" },
+    { "path": "/offers", "title": "Offers · Friends Bawarchi Biryani" },
+    { "path": "/gallery", "title": "Gallery · Friends Bawarchi Biryani" },
+    { "path": "/contact", "title": "Contact · Friends Bawarchi Biryani" },
+    { "path": "/cart", "title": "Your order · Friends Bawarchi Biryani" },
+    { "path": "/admin", "title": "Dashboard · Friends Bawarchi Biryani" },
+    { "path": "/admin/menu", "title": "Menu management · Friends Bawarchi Biryani" },
+    { "path": "/admin/categories", "title": "Categories · Friends Bawarchi Biryani" },
+    { "path": "/admin/orders", "title": "Orders · Friends Bawarchi Biryani" },
+    { "path": "/admin/customers", "title": "Customers · Friends Bawarchi Biryani" },
+    { "path": "/admin/offers", "title": "Offers · Friends Bawarchi Biryani" },
+    { "path": "/admin/gallery", "title": "Gallery management · Friends Bawarchi Biryani" },
+    { "path": "/admin/reviews", "title": "Reviews · Friends Bawarchi Biryani" },
+    { "path": "/admin/analytics", "title": "Analytics · Friends Bawarchi Biryani" },
+    { "path": "/admin/settings", "title": "Settings · Friends Bawarchi Biryani" }
+  ]
+}
